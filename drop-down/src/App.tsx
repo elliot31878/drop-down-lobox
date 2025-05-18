@@ -11,7 +11,7 @@ function App() {
         <DropDown
           options={DROP_DOWN_OPT}
           onChange={() => {}}
-          value={""}
+          value={"education"}
           placeholder="Select an option"
         />
       </section>
